@@ -22,5 +22,6 @@ ABOUT,CONTACT and many other sections.
 # Installing :
   for installing we need to unzip our code then run it on any server
   Signup or login afterwards.
-# Licence: This project is under {Sahil_Kaushik} licence.
+# Licence: 
+This project is under {Sahil_Kaushik} licence.
   
